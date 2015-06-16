@@ -1,4 +1,4 @@
-﻿workflow Sync-Runbooks
+﻿workflow Sync-GithubRunbooks
 {
     param (
        [Parameter(Mandatory=$True)]
