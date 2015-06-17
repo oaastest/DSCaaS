@@ -23,6 +23,6 @@
 #> 
  
  
-workflow Hello-World { 
+workflow Hello-World-Github { 
         Write-Output "Hello World"
 }
