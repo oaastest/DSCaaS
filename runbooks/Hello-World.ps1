@@ -1,4 +1,4 @@
-﻿<# 
+<# 
 .SYNOPSIS 
     Provides a simple example of a Azure Automation runbook.   
  
