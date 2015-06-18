@@ -1,1 +1,1 @@
-workflow { Write-Verbose "Hello World" }
+workflow { Write-Verbose "Hello World" -verbose Get-Date }
