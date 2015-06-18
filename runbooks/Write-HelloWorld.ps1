@@ -1,0 +1,1 @@
+workflow { Write-Verbose "Hello World" }
