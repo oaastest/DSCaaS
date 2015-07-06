@@ -1,2 +1,3 @@
-workflow { Write-Verbose "Hello World" -verbose 
- Get-Date}
+workflow NewRunbook {
+	Write-Output "This change was made in Azure Automation and committed to the right directory."
+}
