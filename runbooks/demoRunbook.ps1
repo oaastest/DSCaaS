@@ -1,0 +1,4 @@
+workflow demoRunbook
+{
+	Get-Date
+}
