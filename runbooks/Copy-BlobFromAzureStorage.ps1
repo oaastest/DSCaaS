@@ -1,4 +1,4 @@
-﻿workflow Copy-BlobFromAzureStorage { 
+workflow Copy-BlobFromAzureStorage { 
     param 
     ( 
         [parameter(Mandatory=$True)]  
