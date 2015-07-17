@@ -25,4 +25,5 @@
  
 workflow Hello-World-Github { 
         Write-Output "Hello World"
+			get-date
 }
