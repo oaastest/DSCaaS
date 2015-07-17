@@ -1,4 +1,4 @@
-﻿<# 
+<# 
 .SYNOPSIS  
     Sets up the connection to an Azure VM 
  
