@@ -1,4 +1,4 @@
-﻿workflow Sync-VsoGitRunbook 
+workflow Sync-VsoGitRunbook 
 { 
     param ( 
        [Parameter(Mandatory=$True)] 
