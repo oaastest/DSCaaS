@@ -1,4 +1,4 @@
-﻿workflow Copy-GithubRepository 
+workflow Copy-GithubRepository 
 { 
     param( 
        [Parameter(Mandatory=$True)] 
