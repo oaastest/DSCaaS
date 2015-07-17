@@ -24,6 +24,6 @@
  
  
 workflow Hello-World-Github { 
-        Write-Output "Hello Team"
+        Write-Output "Hello World"
 		Get-Date 
 }
