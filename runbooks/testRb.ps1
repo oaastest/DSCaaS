@@ -1,0 +1,4 @@
+workflow testRb
+{
+	get-date
+}
