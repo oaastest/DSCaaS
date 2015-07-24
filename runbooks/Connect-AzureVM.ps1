@@ -74,7 +74,8 @@ workflow Connect-AzureVM
             $store = New-Object System.Security.Cryptography.X509Certificates.X509Store "Root", "LocalMachine" 
             $store.Open([System.Security.Cryptography.X509Certificates.OpenFlags]::ReadWrite) 
             $store.Add($CertToImport) 
-            $store.Close() 
+            $store.Close()
+			Get-Date
         } 
          
         # Return the WinRM Uri so that it can be used to connect to this VM 
