@@ -1,4 +1,3 @@
-
 workflow boop {
-get-date
+ get-date 
 }
